@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Aldair\\AndroidStudioProjects\\CameraApp\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "C:\\Users\\Aldair\\AndroidStudioProjects\\CameraApp\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aldair\\AndroidStudioProjects\\CameraApp\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "C:\\Users\\Aldair\\AndroidStudioProjects\\CameraApp\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    }
+]
